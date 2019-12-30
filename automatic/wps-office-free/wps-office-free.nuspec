@@ -7,7 +7,7 @@
     <title>WPS Office Free</title>
     <owners>chocolatey</owners>
     <authors>Kingsoft Software</authors>
-    <projectUrl>https://www.wps.com/office-free</projectUrl>
+    <projectUrl>https://www.wps.com/</projectUrl>
     <iconUrl>https://cdn.jsdelivr.net/gh/chocolatey-community/chocolatey-coreteampackages@c4b46cad1e6a8071b53bb3b797940cabae7f4152/icons/wps-office-free.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description><![CDATA[
@@ -42,7 +42,7 @@ This makes your document editing as easy and natural as web browsing.
 
 ]]></description>
     <summary>WPS Office Free is a free office productivity suite which is smaller and faster than most other office suites.</summary>
-    <tags>kingsoft wps office admin freeware trial</tags>
+    <tags>kingsoft wps office pdf reader admin freeware trial multilanguage MUI cloud</tags>
     <packageSourceUrl>https://github.com/chocolatey-community/chocolatey-coreteampackages/tree/master/automatic/wps-office-free</packageSourceUrl>
     <licenseUrl>https://www.wps.com/eula</licenseUrl>
   </metadata>
